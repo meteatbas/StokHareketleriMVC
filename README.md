@@ -8,7 +8,7 @@
 
 ## Veritabanı'nı MSSql Server'a Import etmek icin
 
-Connect Database Engine->Object Explorer -> Databases -> Import Data-tier Application -> Next -> Browse File(StokKartıDB.bacpac) -> Next -> Next -> Finish
+Connect Database Engine->Object Explorer -> Databases -> Import Data-tier Application -> Next -> Browse File(stokHareketDB.bacpac) -> Next -> Next -> Finish
 
 Sorular
 
